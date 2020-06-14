@@ -1269,6 +1269,7 @@ Where to discover learning resources or new Python libraries.
 ## Books
 
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
+- [Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ## Websites
 
